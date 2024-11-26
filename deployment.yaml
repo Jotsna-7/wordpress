@@ -16,7 +16,7 @@ spec:
         tier: frontend
     spec:
       containers:
-      - name: yash
-        image: jotsna7/yash
+      - name: docker1
+        image: jotsna7/docker1
         ports:
         - containerPort: 80
