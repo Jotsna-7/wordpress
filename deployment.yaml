@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: docker
-        image: vinay182206/vink8
+        image: ramsai01/wp1
         ports:
         - containerPort: 80
