@@ -16,7 +16,7 @@ spec:
         tier: frontend
     spec:
       containers:
-      - name: docker1
-        image: jotsna7/docker1
+      - name: docker
+        image: vinay182206/vink8
         ports:
         - containerPort: 80
