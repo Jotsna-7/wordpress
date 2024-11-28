@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: docker
-        image: ramsai01/wp1
+        image: rajesh003/wp
         ports:
         - containerPort: 80
